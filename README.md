@@ -50,16 +50,6 @@
 
 ---
 
-### 🌐 Connect With Me
-
-<a href="mailto:mduzzalmia.dev@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
-</a>
-
-📧 **Email:** mduzzalmia.dev@gmail.com
-
----
-
 ### 🧰 Languages and Tools
 
 <p align="left">
