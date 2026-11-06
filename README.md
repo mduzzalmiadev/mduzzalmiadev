@@ -1,6 +1,6 @@
 # Hi 👋, I'm MD Uzzal Mia
 
-### 🚀 iOS Developer | Vibe Coder | Indie App Developer 🇧🇩
+### 🚀 iOS Developer | Vibe Coder
 
 ![Profile Views](https://komarev.com/ghpvc/?username=uzzal2200&label=Profile%20Views&color=0e75b6&style=flat)
 
